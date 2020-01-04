@@ -12,13 +12,6 @@ body {
 
 /* general */
 
-.orgContainer {
-  width: 100%;
-  max-width: 960px;
-  margin: 0 auto;
-  clear: both;
-}
-
 h1,
 h2,
 h3,
@@ -77,10 +70,6 @@ h3 {
   background: #4aaaa5;
 }
 
-/* nav {
-  float: right;
-  margin-top: 25px;
-} */
 
 nav a {
   display: inline-block;
